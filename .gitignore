@@ -1,0 +1,6 @@
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+/WildJailbreak/train/train.tsv
+/DAN/forbidden_question/forbidden_question_set_with_prompts.csv
